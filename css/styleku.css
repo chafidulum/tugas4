@@ -1,0 +1,44 @@
+body{
+	background-color:#EEEEEE;
+	margin:1cm 1cm; /* margin searah jarum jam*/
+}
+h6{
+	color:#000000;
+	font-size: 20px;
+	float: leight;
+	width: 500px;
+	border: 2px solid #865DFF;
+	padding: 10px;
+	font-family: calibri;
+	text-indent: 0.5cm;
+}
+p.p1{
+	text-align:justify;
+	text-indent:1 cm;
+	padding:20px;
+	color:#183A1D;
+	line-height:0.5cm;
+	word-spacing:5px;
+	font-size:20px;
+	font-family:serif, monospace, calibri;
+}
+p.p2{
+	font-size: 20px;
+	padding:20px;
+	color:blue;
+	line-height:0.5cm;
+	word-spacing:5px;
+	text-align: left;
+}	
+#kotak{
+	border-style: dotted;
+	border-color: Blue;
+	
+}
+/*----pseudo-----*/
+p.p1:first-line{
+	font-family:calibri,times new roman, cambria;
+	background-color:#393053;
+	color:#FEFBE9;
+	font-style:italic;
+}
